@@ -1,6 +1,8 @@
 #11111111111111111111111111111111
 
+!pip install scipy
 
+!pip install -r requirements.txt
 import pandas as pd
 import numpy as np
 from itertools import combinations
